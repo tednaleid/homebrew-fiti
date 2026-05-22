@@ -1,6 +1,6 @@
 cask "fiti" do
-  version "0.3.0"
-  sha256 "9d77877cbf1faba50ea90f82fbc79193b66070905f8fbd0120def5b014cb60ff"
+  version "0.3.1"
+  sha256 "c7f61de6bab1ef28342af8a7a5b5e062a22f73878c2d56a577cbd2070c082008"
 
   url "https://github.com/tednaleid/fiti/releases/download/#{version}/fiti-#{version}.dmg"
   name "fiti"
